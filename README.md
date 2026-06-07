@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&size=22&duration=3500&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+%26+Cientista+de+Dados;%2B20+anos+no+setor+p%C3%BAblico;IA+%7C+Ciberseguran%C3%A7a+%7C+GovTech)
 
-📍 Araxá, Minas Gerais, Brasil
+
 
 </div>
 
