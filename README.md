@@ -51,22 +51,7 @@
 
 ## 👤 Sobre mim
 
-Profissional com mais de 20 anos de experiência em gestão, tecnologia e transformação digital, combinando visão estratégica e experiência prática na resolução de problemas complexos.
 
-Minha trajetória une experiência organizacional e administrativa com formação e atuação em Engenharia de Software, Ciência de Dados, Inteligência Artificial, Cibersegurança e Sistemas de Informação.
-
-Atuo conectando tecnologia, dados e inovação para criar soluções que geram impacto real, melhoram processos e apoiam tomadas de decisão baseadas em dados.
-
-Ou uma versão mais forte para GitHub:
-
-Profissional multidisciplinar com mais de 20 anos de experiência, unindo tecnologia, gestão e inovação para desenvolver soluções digitais orientadas por dados. Formação e atuação em Engenharia de Software, Ciência de Dados, Inteligência Artificial, Cibersegurança e Sistemas de Informação, com foco em automação, analytics e transformação digital.
-
-E colocaria abaixo:
-
-🚀 Estudando: Cibersegurança | Sistemas de Informação | IA
-💻 Interesse: Engenharia de Software • Data Science • IA • Segurança • Automação
-📊 Projetos: Dados, dashboards, analytics e soluções digitais
-🌎 Aberto a oportunidades remotas, colaboração e novos projetos
 
 **🎯 Áreas de interesse:** `Engenharia de Software` • `Ciência de Dados` • `Inteligência Artificial` • `Cibersegurança` • `Gestão Pública` • `Sistemas de Informação` • `História`
 
