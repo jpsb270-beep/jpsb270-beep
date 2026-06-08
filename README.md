@@ -1,59 +1,95 @@
-# Olá 👋, prazer! Eu sou o João Paulo
+<h1 align="center">Olá! Eu sou o João Paulo 👋</h1>
+<h3 align="center">Tecnologia, Dados e Segurança a serviço da Gestão Pública</h3>
 
-### Engenharia de Software | Ciência de Dados | Inteligência Artificial | Cibersegurança
+<div align="center">
 
-<img align="right" src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas&color=0e75b6&style=flat" alt="visitas" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&size=22&duration=3500&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+%26+Cientista+de+Dados;%2B20+anos+no+setor+p%C3%BAblico;IA+%7C+Ciberseguran%C3%A7a+%7C+GovTech)
 
----
 
-## 🧠 Sobre mim
 
-Profissional com mais de **20 anos de experiência**, atuando na interseção entre tecnologia, dados, gestão e transformação digital.
+</div>
 
-Minha trajetória combina experiência prática em ambientes complexos com formação multidisciplinar em **Engenharia de Software, Ciência de Dados, Inteligência Artificial, Cibersegurança e Sistemas de Informação**.
+###
 
-Esse diferencial me permite unir visão estratégica, conhecimento técnico e resolução de problemas reais — desenvolvendo soluções eficientes, seguras e orientadas a dados para apoiar pessoas, organizações e tomadas de decisão.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="55" alt="flask" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="55" alt="fastapi" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgres" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="55" alt="tensorflow" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="55" alt="pytorch" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux" />
+</div>
 
----
+###
 
-## 🛠️ Linguagens e Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,sqlite,git,github,linux,docker,vscode,figma" />
-</p>
-
----
-
-## 📊 Minhas Estatísticas
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## ✨ Interesses
-
-- 💡 Tecnologia aplicada à resolução de problemas reais
-- 📊 Dados, analytics e inteligência artificial
-- 🔐 Segurança da informação e cibersegurança
-- 🚀 Automação, inovação e transformação digital
-- 🤝 Colaboração em projetos open source e tecnologia
-
----
-
-## 🌐 Vamos nos conectar!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU_PERFIL/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin" />
   </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:SEU-EMAIL@exemplo.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email" />
   </a>
-</p>
+  <a href="https://github.com/jpsb270-beep">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github" />
+  </a>
+</div>
+
+###
+
+## 👤 Sobre mim
+
+Profissional com mais de 20 anos de experiência em gestão, tecnologia e transformação digital, combinando visão estratégica e experiência prática na resolução de problemas complexos.
+
+Minha trajetória une experiência organizacional e administrativa com formação e atuação em Engenharia de Software, Ciência de Dados, Inteligência Artificial, Cibersegurança e Sistemas de Informação.
+
+Atuo conectando tecnologia, dados e inovação para criar soluções que geram impacto real, melhoram processos e apoiam tomadas de decisão baseadas em dados.
+
+**🎯 Áreas de interesse:** `Engenharia de Software` • `Ciência de Dados` • `Inteligência Artificial` • `Cibersegurança` • `Gestão Pública` • `Sistemas de Informação` • `História`
+
+
+
+## 🎓 Formação
+
+- 🎓 Pós-graduação em **Engenharia de Software**
+- 🎓 Pós-graduação em **Ciência de Dados e Inteligência Artificial**
+- 🎓 **MBA em Contabilidade Pública**
+- 🎓 **Análise de Sistemas** • **Gestão Pública**
+- 📚 **Sistemas de Informação**, **Cibersegurança** e **História** *(em andamento)*
+
+###
+
+<div align="center">
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=jpsb270-beep&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true)
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jpsb270-beep&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jpsb270-beep&theme=tokyonight&hide_border=true&border_radius=5&locale=pt_BR" height="160" alt="streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jpsb270-beep&theme=tokyonight&no-frame=true&column=4&row=1&margin-w=6" height="160" alt="trophy" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpsb270-beep/jpsb270-beep/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpsb270-beep/jpsb270-beep/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jpsb270-beep/jpsb270-beep/output/pacman-contribution-graph.svg">
+</picture>
