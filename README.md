@@ -61,7 +61,7 @@ Atuo conectando tecnologia, dados e inovação para criar soluções que geram i
 
 ## 🚀 Objetivo profissional
 
-Aplicar tecnologia, dados e segurança da informação para **modernizar a gestão pública** e gerar valor real para a sociedade — desenvolvendo soluções eficientes, seguras e orientadas a dados que aprimorem os serviços prestados ao cidadão.
+Aplicar tecnologia, dados e segurança da informação para modernizar processos, gerar valor real e desenvolver soluções eficientes, seguras e orientadas a dados, contribuindo para melhores serviços, inovação e tomada de decisão.
 
 ## 🎓 Formação
 
