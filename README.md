@@ -51,7 +51,11 @@
 
 ## 👤 Sobre mim
 
+Profissional com mais de 20 anos de experiência em gestão, tecnologia e transformação digital, combinando visão estratégica e experiência prática na resolução de problemas complexos.
 
+Minha trajetória une experiência organizacional e administrativa com formação e atuação em Engenharia de Software, Ciência de Dados, Inteligência Artificial, Cibersegurança e Sistemas de Informação.
+
+Atuo conectando tecnologia, dados e inovação para criar soluções que geram impacto real, melhoram processos e apoiam tomadas de decisão baseadas em dados.
 
 **🎯 Áreas de interesse:** `Engenharia de Software` • `Ciência de Dados` • `Inteligência Artificial` • `Cibersegurança` • `Gestão Pública` • `Sistemas de Informação` • `História`
 
