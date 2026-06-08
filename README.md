@@ -59,9 +59,7 @@ Atuo conectando tecnologia, dados e inovação para criar soluções que geram i
 
 **🎯 Áreas de interesse:** `Engenharia de Software` • `Ciência de Dados` • `Inteligência Artificial` • `Cibersegurança` • `Gestão Pública` • `Sistemas de Informação` • `História`
 
-## 🚀 Objetivo profissional
 
-Aplicar tecnologia, dados e segurança da informação para modernizar processos, gerar valor real e desenvolver soluções eficientes, seguras e orientadas a dados, contribuindo para melhores serviços, inovação e tomada de decisão.
 
 ## 🎓 Formação
 
