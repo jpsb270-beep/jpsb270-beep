@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o João Paulo 👋</h1>
-<h3 align="center">Tecnologia, Dados e Segurança a serviço da Gestão Pública</h3>
+<h3 align="center">Tecnologia, Dados e Segurança 
 
 <div align="center">
 
