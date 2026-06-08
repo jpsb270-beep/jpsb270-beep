@@ -1,11 +1,9 @@
 <h1 align="center">Olá! Eu sou o João Paulo 👋</h1>
-<h3 align="center">Tecnologia, Dados e Segurança 
+<h3 align="center">Tecnologia, Dados e Segurança a serviço da Gestão Pública</h3>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&size=22&duration=3500&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+%26+Cientista+de+Dados;%2B20+anos+no+setor+p%C3%BAblico;IA+%7C+Ciberseguran%C3%A7a+%7C+GovTech)
-
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&size=22&duration=3500&pause=1000&color=38BDAE&center=true&vCenter=true&width=700&lines=Tecnologia+%7C+Dados+%7C+Intelig%C3%AAncia+Artificial;Ciberseguran%C3%A7a+%7C+Transforma%C3%A7%C3%A3o+Digital;%2B20+anos+transformando+dados+em+decis%C3%B5es)
 
 </div>
 
@@ -58,8 +56,6 @@ Minha trajetória une experiência organizacional e administrativa com formaçã
 Atuo conectando tecnologia, dados e inovação para criar soluções que geram impacto real, melhoram processos e apoiam tomadas de decisão baseadas em dados.
 
 **🎯 Áreas de interesse:** `Engenharia de Software` • `Ciência de Dados` • `Inteligência Artificial` • `Cibersegurança` • `Gestão Pública` • `Sistemas de Informação` • `História`
-
-
 
 ## 🎓 Formação
 
